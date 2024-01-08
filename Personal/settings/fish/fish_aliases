@@ -3,7 +3,7 @@
 ###
 alias ls='exa --icons --group-directories-first'
 alias md='mkdir -p'
-alias swap='sudo swapon --show'
+alias swap='swapon --show'
 
 ### Adding flags
 alias bat='bat --color=always --style=plain --pager=never'
